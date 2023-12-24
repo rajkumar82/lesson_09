@@ -26,7 +26,7 @@ const canvas = document.querySelector('canvas.rajkumar')
 const scene = new THREE.Scene()
 
 const material = new THREE.MeshBasicMaterial({
-    color: 0x0000ff,
+    color: 0xff0000,
     side: THREE.DoubleSide,
     wireframe: false
 })
